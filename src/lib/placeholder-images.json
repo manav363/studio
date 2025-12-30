@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A modern and collaborative office environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1713947506827-c646da3ad1db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvZmZpY2UlMjBjb2xsYWJvcmF0aW9ufGVufDB8fHx8MTc2NzAyODQ5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office collaboration"
+    },
+    {
+      "id": "profile-1",
+      "description": "Portrait of a female designer.",
+      "imageUrl": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NzA2MTU5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "profile-2",
+      "description": "Portrait of a male developer.",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjcwMTA4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "profile-3",
+      "description": "Portrait of a male writer.",
+      "imageUrl": "https://images.unsplash.com/photo-1569779213435-ba3167dde7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8MTc2NzAxMDMzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "profile-4",
+      "description": "Portrait of a female mobile developer.",
+      "imageUrl": "https://images.unsplash.com/photo-1711645169736-53327e726205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzY3MDI1OTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "profile-5",
+      "description": "Portrait of a male cloud architect.",
+      "imageUrl": "https://images.unsplash.com/photo-1618077360395-f3068be8e001?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFuJTIwcHJvZmlsZXxlbnwwfHx8fDE3NjY5OTI4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man profile"
+    },
+    {
+      "id": "profile-6",
+      "description": "Portrait of a female graphic designer.",
+      "imageUrl": "https://images.unsplash.com/photo-1658940213051-5b7be1feeb98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGNyZWF0aXZlfGVufDB8fHx8MTc2NzA5MTU0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman creative"
+    },
+    {
+      "id": "profile-me",
+      "description": "Portrait of the current user.",
+      "imageUrl": "https://images.unsplash.com/photo-1760574735049-4ecb7b90f724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBzZWxmfGVufDB8fHx8MTc2NzA5MTU0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person self"
+    },
+    {
+      "id": "client-1",
+      "description": "Logo of a client corporation.",
+      "imageUrl": "https://images.unsplash.com/photo-1562705121-e624542c7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29tcGFueSUyMGxvZ298ZW58MHx8fHwxNzY3MDcxMjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-2",
+      "description": "Logo of a startup.",
+      "imageUrl": "https://images.unsplash.com/photo-1760037028517-e5cc6e3ebd3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0ZWNoJTIwbG9nb3xlbnwwfHx8fDE3NjY5NzAyNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech logo"
+    },
+    {
+      "id": "client-3",
+      "description": "Logo of an innovation company.",
+      "imageUrl": "https://images.unsplash.com/photo-1744390166851-82056c6552d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3QlMjBsb2dvfGVufDB8fHx8MTc2NzA4Njg2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract logo"
+    },
+    {
+      "id": "portfolio-1",
+      "description": "Screenshot of an e-commerce website design.",
+      "imageUrl": "https://images.unsplash.com/photo-1678690832871-8b9993c76aa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2Vic2l0ZSUyMGRlc2lnbnxlbnwwfHx8fDE3NjcwMDk2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "website design"
+    },
+    {
+      "id": "portfolio-2",
+      "description": "Mockup of a mobile banking application.",
+      "imageUrl": "https://images.unsplash.com/photo-1542641728-6ca359b085f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzY3MDY3OTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "portfolio-3",
+      "description": "Screenshot of a SaaS dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYXNoYm9hcmQlMjBhbmFseXRpY3N8ZW58MHx8fHwxNzY3MDkxNDQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard analytics"
+    }
+  ]
 }
