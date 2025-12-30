@@ -12,6 +12,7 @@ import { Separator } from '@/components/ui/separator';
 import { conversations, messages as mockMessages, freelancers } from '@/lib/placeholder-data';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { cn } from '@/lib/utils';
+import { Textarea } from '@/components/ui/textarea';
 
 
 export default function MessagesPage() {
