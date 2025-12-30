@@ -12,7 +12,7 @@ SkillBridge is a comprehensive learning platform that connects students and prof
 - **Framework:** Next.js (App Router, `src/app` structure)
 - **Language:** TypeScript (98% of codebase)
 - **Styling:** Tailwind CSS + PostCSS
-- **Deployment:** Firebase App Hosting
+- **Deployment:** Cloud Hosting & CDN
 - **Build Tools:** Node.js with npm
 
 ## Key Features
@@ -40,8 +40,7 @@ SkillBridge is a comprehensive learning platform that connects students and prof
 ├── tailwind.config.ts    # Tailwind CSS configuration
 ├── next.config.ts        # Next.js configuration
 ├── tsconfig.json         # TypeScript configuration
-├── apphosting.yaml       # Firebase App Hosting config
-└── package.json          # Dependencies and scripts
+- **`apphosting.yaml`** - Cloud Hosting configuration└── package.json          # Dependencies and scripts
 ```
 
 ## Getting Started
@@ -49,7 +48,7 @@ SkillBridge is a comprehensive learning platform that connects students and prof
 ### Prerequisites
 
 - Node.js 16+ and npm
-- Firebase CLI (for deployment)
+- Cloud Hosting CLI (for deployment)
 - Git
 
 ### Installation
@@ -82,8 +81,7 @@ SkillBridge is a comprehensive learning platform that connects students and prof
 
 ## Deployment
 
-SkillBridge is configured for Firebase App Hosting with multiple production environments:
-
+SkillBridge is configured for cloud-based deployment with multiple production environments:
 ### Production Deployments
 
 - **Production - Studio** - Main platform deployment
@@ -103,11 +101,10 @@ SkillBridge is configured for Firebase App Hosting with multiple production envi
    git push origin main
    ```
 
-3. Firebase will automatically deploy based on `apphosting.yaml` configuration.
-
+3. Automatic deployment will be triggered based on the `apphosting.yaml` configuration.
 ## Configuration Files
 
-- **`apphosting.yaml`** - Firebase App Hosting configuration
+- **`apphosting.yaml`** - Cloud Hosting configuration
 - **`tailwind.config.ts`** - Tailwind CSS customization
 - **`next.config.ts`** - Next.js build and runtime options
 - **`tsconfig.json`** - TypeScript compiler options
@@ -121,7 +118,7 @@ SkillBridge is configured for Firebase App Hosting with multiple production envi
 4. Commit with clear messages
 5. Push and create a Pull Request
 6. Merge after review
-7. Automatic deployment to Firebase
+7. Automatic deployment to Cloud Hosting
 
 ## Technologies Used
 
